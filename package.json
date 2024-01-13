@@ -1,0 +1,14 @@
+{
+  "name": "kata-year-bisiesto",
+  "version": "1.0.0",
+  "description": "Aplicar los conceptos de testing y TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marta",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
